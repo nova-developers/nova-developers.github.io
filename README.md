@@ -1,7 +1,10 @@
 ## Agilex Book Club
 
-----
+----  
 
+1.[Overview](#overview)
+
+### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
 who work at [Agilex Technologies](http://www.agilex.com), a place to continue
 their developers skills. Whether it be development or learning new processes, we
