@@ -37,6 +37,91 @@ to work together in smaller teams rather than 1 large team.
 
 ----
 
+### Proposed Learning Plan  
+
+Our first book that we will be working from is [Seven Languages in Seven
+Weeks](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks). The
+book is broken apart for seven weeks, but we are going to do seven months. This
+will give us time to understand more about each of the languages.  
+
+#### Month One  
+
+##### Ruby  
+
+1. *Week 1: History and basic of Ruby* 
+  1. During the week each developer will think of the project that will be done
+  by the end of the month from the learning of the basics of Ruby.
+  2. Each developer will create a branch on this repo that will use the naming
+  convention: {club-username}/ruby-{week1} - for example: rsimpson/ruby-week1  
+  3. The developer will create markdown files in the branch will any information
+  learned from the week that can be shared with others  
+  4. If there is any use cases of code that you would like to do, please do so
+  in the branch using a folder for that use case that can be shared
+2. *Week 2: Ruby in the Console*  
+  1. Learn to use Ruby in the console using `irb`. The book is pretty simple
+  with the code samples, so it will be up to the developers to go beyond what is
+  learned in this part of the book and possible create small programs that will
+  run inside of `irb`.
+  2. This will use the same naming conventions aboved for each developers
+  branch.  
+3. *Week 3: functions, classes, mixins, modules* 
+  1. Learn the foundations of Ruby while starting to create Ruby programs that
+  run from files that you create.
+4. *Week 4: Metaprogramming* 
+  1. Learn ways a language looks and works 
+  2. Write a program that writes a program. This will be the project that was
+  defined in week 1.
+
+----
+
+#### Month Two  
+
+##### Io  
+
+More information to come soon  
+
+----
+
+#### Month Three  
+
+##### Prolog  
+
+More information to come soon  
+
+----  
+
+#### Month Four  
+
+##### Scala  
+
+More information to come soon  
+
+----
+
+#### Month Five  
+
+##### Erlang  
+
+More information to come soon  
+
+----
+
+#### Month Sive  
+
+##### Clojure  
+
+More information to come soon  
+
+----  
+
+#### Month Seven  
+
+##### Haskell  
+
+More informatio to come soon  
+
+----
+
 
 
 
