@@ -38,6 +38,8 @@ programming language we are learning.
 separate the developers into teams for projects. This will allow the developers
 to work together in smaller teams rather than 1 large team.
 
+[Back to Top](#agilex-book-club)
+
 ----
 
 ### Proposed Learning Plan  
