@@ -8,8 +8,8 @@ their developers skills. Whether it be development or learning new processes, we
 intend for this to be an experience that won't take up much time, rather have
 each developer to learn more than they would while in the work environment.  
 
-We are currently meeting at the (Starbucks in Gainesville,
-VA)[http://www.starbucks.com/store/14670/us/gainesville/7375-atlas-walk-way-bldg-g-gainesville-va],
+We are currently meeting at the [Starbucks in Gainesville,
+VA[(http://www.starbucks.com/store/14670/us/gainesville/7375-atlas-walk-way-bldg-g-gainesville-va),
 each Saturday at 1:00 PM. These meetings are time blocked to be no longer than 2
 hours long, and will be a chance for developers to discuss what they learned
 from the current book we are reading from. Here is the outline of how we are
