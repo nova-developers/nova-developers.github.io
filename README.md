@@ -2,7 +2,8 @@
 
 ----  
 
-1[Overview](#overview)
+[Overview](#overview)  
+[Proposed Learning Plan](#proposed-learning-plan)  
 
 ### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
@@ -126,6 +127,7 @@ More information to come soon
 More informatio to come soon  
 
 ----
+[Back to Top](#agilex-book-club)
 
 
 
