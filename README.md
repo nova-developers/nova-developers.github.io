@@ -2,7 +2,7 @@
 
 ----  
 
-1.[Overview](#overview)
+1[Overview](#overview)
 
 ### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
