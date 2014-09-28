@@ -4,7 +4,6 @@
 
 [Overview](#overview)  
 [Proposed Learning Plan](#proposed-learning-plan)  
-[Participants](PARTICIPANTS.md)
 
 ### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
