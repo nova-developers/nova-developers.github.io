@@ -22,17 +22,15 @@ people:
       url: http://www.twitter.com/pertrai1
     - title: github
       url: https://github.com/pertrai1
+    - title: linkedin
+      url: http://www.linkedin.com/in/rsimpson2
 
 - name: Sid Bhatia
   pic: 2
   position: Software Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: github
+      url: https://github.com/sidharthb
 
 - name: Alex Villaneda
   pic: 3
@@ -46,7 +44,7 @@ social:
   - title: twitter
     url: http://twitter.com/pertrai1
   - title: github
-    url: http://github.com/pertrai1
+    url: https://github.com/agilex-book-club/agilex-book-club.github.io
 
 # Postal address (add as many lines as necessary)
 address:
