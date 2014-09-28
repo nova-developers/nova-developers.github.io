@@ -2,6 +2,8 @@
 
 ----  
 
+[agilex-book-club.github.io](http://agilex-book-club.github.io)  
+
 [Overview](#overview)  
 [Proposed Learning Plan](#proposed-learning-plan)  
 
