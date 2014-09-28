@@ -1,0 +1,16 @@
+---
+title: Ruby
+subtitle: Metaprogramming
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: Ruby-language.png
+thumbnail: Ruby-thumbnail.png
+alt: image-alt
+project-date: October  2014
+book: Seven Language in Seven Weeks
+category: Programming Languages
+description: Ruby is an interpreted, object-oriented, dynamically typed languagefrom a family of so-called scripting languages. We will learn for one month the power of Ruby and put together a project based off of this scripting language.
+
+
+---
