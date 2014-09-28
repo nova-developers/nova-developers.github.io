@@ -431,7 +431,7 @@ section h3.section-subheading {
 
 #banner a {
   display: block;
-  width: 190px;
+  width: 210px;
   font-size: 14px;
   font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
   background-color: #333;
@@ -455,12 +455,14 @@ section h3.section-subheading {
   transform-origin: 0 0;
   transform: rotate(45deg);
   box-shadow: 1px 1px 5px 1px #666;
-  background-image: linear-gradient(bottom, #000000 3%, #666666 5%, #000000 7%, #000000 93%, #666666 95%, #000000 97%);
-  background-image: -o-linear-gradient(bottom, #000000 3%, #666666 5%, #000000 7%, #000000 93%, #666666 95%, #000000 97%);
-  background-image: -moz-linear-gradient(bottom, #000000 3%, #666666 5%, #000000 7%, #000000 93%, #666666 95%, #000000 97%);
-  background-image: -webkit-linear-gradient(bottom, #000 3%, #666 5%, #000 7%, #000 93%, #666 95%, #000 97%);
-  background-image: -ms-linear-gradient(bottom, #000000 3%, #666666 5%, #000000 7%, #000000 93%, #666666 95%, #000000 97%);
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.03, #000), color-stop(0.05, #666), color-stop(0.07, #000), color-stop(0.93, #000), color-stop(0.95, #666), color-stop(0.97, #000));
+  background: #00aaa6;
+  background: -moz-linear-gradient(top,  #00aaa6 0%, #00c6d1 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00aaa6), color-stop(100%,#00c6d1));
+  background: -webkit-linear-gradient(top,  #00aaa6 0%,#00c6d1 100%);
+  background: -o-linear-gradient(top,  #00aaa6 0%,#00c6d1 100%);
+  background: -ms-linear-gradient(top,  #00aaa6 0%,#00c6d1 100%);
+  background: linear-gradient(to bottom,  #00aaa6 0%,#00c6d1 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aaa6', endColorstr='#00c6d1',GradientType=0 );
 }
 
 @media(min-width:767px) {
