@@ -389,6 +389,7 @@ section h3.section-subheading {
     box-shadow: 0 2px 4px 1px #bfbfbf;
     right: 0;
     margin: 0 0 15px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -434,11 +435,12 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-caption {
+    border: 1px solid #5e5e5e;
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #00aaa6;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
