@@ -170,6 +170,10 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
+    margin-top: -15px;
+}
+
+.navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.color.primary }};
 }
@@ -225,6 +229,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+.secondary {
+  background: #4f4f4f;
+  border: 1px solid #343434;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -248,7 +257,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #5e5e5e;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -346,11 +355,38 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item {
-    background: #fff;
-    border: 1px solid #b7c7cf;
-    padding: 10px;
+    background-color: #f9f9f9;
+    background-image: -moz-linear-gradient(top, #fff, #f0f0f0);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#f0f0f0));
+    background-image: -webkit-linear-gradient(top, #fff, #f0f0f0);
+    background-image: -o-linear-gradient(top, #fff, #f0f0f0);
+    background-image: linear-gradient(to bottom, #fff, #f0f0f0);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+    background-color: #f9f9f9;
+    background-image: -moz-linear-gradient(top, #fff, #f0f0f0);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#f0f0f0));
+    background-image: -webkit-linear-gradient(top, #fff, #f0f0f0);
+    background-image: -o-linear-gradient(top, #fff, #f0f0f0);
+    background-image: linear-gradient(to bottom, #fff, #f0f0f0);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+    border: 1px solid #f5f5f5;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    -webkit-box-shadow: 0 2px 4px 1px #bfbfbf;
+    -moz-box-shadow: 0 2px 4px 1px #bfbfbf;
+    box-shadow: 0 2px 4px 1px #bfbfbf;
+    -webkit-box-shadow: 0 2px 4px 1px #bfbfbf;
+    -moz-box-shadow: 0 2px 4px 1px #bfbfbf;
+    box-shadow: 0 2px 4px 1px #bfbfbf;
     right: 0;
     margin: 0 0 15px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -396,11 +432,12 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-caption {
+    border: 1px solid #5e5e5e;
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #00aaa6;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -463,6 +500,7 @@ section h3.section-subheading {
   background: -ms-linear-gradient(top,  #00aaa6 0%,#00c6d1 100%);
   background: linear-gradient(to bottom,  #00aaa6 0%,#00c6d1 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aaa6', endColorstr='#00c6d1',GradientType=0 );
+  z-index: 1050;
 }
 
 @media(min-width:767px) {
@@ -696,10 +734,15 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: #5e5e5e;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.contact_box {
+  background: #4f4f4f;
+  border: 1px solid #343434;
+  padding: 10px;
 }
 
 section#contact .section-heading {
