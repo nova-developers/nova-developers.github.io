@@ -729,10 +729,15 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: #5e5e5e;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.contact_box {
+  background: #4f4f4f;
+  border: 1px solid #343434;
+  padding: 10px;
 }
 
 section#contact .section-heading {
