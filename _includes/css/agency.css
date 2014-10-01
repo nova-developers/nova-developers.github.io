@@ -500,6 +500,7 @@ section h3.section-subheading {
   background: -ms-linear-gradient(top,  #00aaa6 0%,#00c6d1 100%);
   background: linear-gradient(to bottom,  #00aaa6 0%,#00c6d1 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aaa6', endColorstr='#00c6d1',GradientType=0 );
+  z-index: 1050;
 }
 
 @media(min-width:767px) {
