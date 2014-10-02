@@ -2,8 +2,7 @@
 
 ----  
 
-[agilex-book-club.github.io](http://agilex-book-club.github.io)  
-[Book Club Projects Repo](https://github.com/agilex-book-club/book-projects)
+[nova-developers.github.io](http://nova-developers.github.io)  
 
 [Overview](#overview)  
 [Proposed Learning Plan](#proposed-learning-plan)  
