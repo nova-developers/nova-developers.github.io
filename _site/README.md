@@ -1,16 +1,15 @@
-## Agilex Book Club [![Build Status](https://travis-ci.org/agilex-book-club/agilex-book-club.github.io.svg?branch=master)](https://travis-ci.org/agilex-book-club/agilex-book-club.github.io)
+## NoVa Book Club [![Build Status](https://travis-ci.org/agilex-book-club/agilex-book-club.github.io.svg?branch=master)](https://travis-ci.org/agilex-book-club/agilex-book-club.github.io)
 
 ----  
 
-[agilex-book-club.github.io](http://agilex-book-club.github.io)  
-[Book Club Projects Repo](https://github.com/agilex-book-club/book-projects)
+[nova-developers.github.io](http://nova-developers.github.io)  
 
 [Overview](#overview)  
 [Proposed Learning Plan](#proposed-learning-plan)  
 
 ### Overview  
 This book club is intended to give developers in the Virginia area, mainly those
-who work at [Agilex Technologies](http://www.agilex.com), a place to continue
+who work at [NoVa Technologies](http://www.agilex.com), a place to continue
 their developers skills. Whether it be development or learning new processes, we
 intend for this to be an experience that won't take up much time, rather have
 each developer to learn more than they would while in the work environment.  
