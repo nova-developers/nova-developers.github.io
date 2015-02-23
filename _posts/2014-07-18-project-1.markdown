@@ -1,16 +1,16 @@
 ---
-title: Ruby
-subtitle: Metaprogramming
+title: Elixir
+subtitle: Dynamic and functional language
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: Ruby-language.png
-thumbnail: Ruby-thumbnail.png
+date: 2015-03-01
+img: elixir.png
+thumbnail: elixir.png
 alt: image-alt
-project-date: October  2014
-book: Seven Language in Seven Weeks
+project-date: March 1, 2015
 category: Programming Languages
-description: Ruby is an interpreted, object-oriented, dynamically typed languagefrom a family of so-called scripting languages. We will learn for one month the power of Ruby and put together a project based off of this scripting language.
+description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
+
 
 
 ---
